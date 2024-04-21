@@ -1,9 +1,24 @@
 <br>
 
+<<<<<<< HEAD
 <div align='center'>
     <font style='font-size: 30px; color: white'>Lugger</font>
     <br>
     <img style='border-radius: 20px;' src="images/avatar.gif" width='295'>
+=======
+<div align='center' style='background-color: gray; padding: 7px; border-radius: 14px'>
+    <p style='
+    height: 35px;
+    @font-face{
+        font-family: "FontName";
+        src: url("fonts/Exo2-VariableFont_wght.ttf")
+    }
+    font-face: "FontName";
+    font-size: 30px;
+    color: white;
+    '>Lugger</p>
+    <img style='border-radius: 20px;' src="images/avatar.gif" width='350'>
+>>>>>>> 4a8eaf1b7afda7ccf1306bd31a7e6ebd348ced94
     <br>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft%2Cme%2FLsxzvt">
     <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=StackOverflow&link=https%3A%2F%2Fru.stackoverflow.com%2Fusers%2F497911%2Flugger">
