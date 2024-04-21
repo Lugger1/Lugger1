@@ -15,22 +15,51 @@
 
 <h1 align='center'> Кто я?</h1>
 
-- Я python-программист;
-- Пока-что школьник, просто делающий в свободное время проекты;
-- В основном пишу что-то на <img title='[Qt Icon]' src='images/qt.svg' width=25 align='center'> PyQt 6-й версии
+<ul align='center'>
+    Я python-программист;
+    <br>
+    Пока-что школьник, просто делающий в свободное время проекты;
+    <br>
+    В основном пишу что-то на <img title='[Qt Icon]' src='images/qt.svg' width=25 align='center'> PyQt 6-й версии
+</ul>
 
 <br>
 <h1 align='center'>В будущем планирую изучить</h1>
-<img src="images/cplusplus-original.svg" width=50 align='center'> <img src="images/csharp-original.svg" width=50 align='center'> <img src="images/javascript-original.svg" width=50 align='center'> <img src="images/typescript-original.svg" width=50 align='center'> <img src="images/unity-original.svg" width=50 align='center'> 
 
+<div align='center'>
+    <img src="images/cplusplus-original.svg" width=50 align='center'> <img src="images/csharp-original.svg" width=50 align='center'> <img src="images/javascript-original.svg" width=50 align='center'> <img src="images/typescript-original.svg" width=50 align='center'> <img src="images/unity-original.svg" width=50 align='center'> 
+</div>
 <br>
+
 <h1 align=center>Использую в разработке</h1>
 
-| LOGO | DESCRIPTION |
-|:-:    |    -:|
-|<img align=center src='images/python-original.svg' width=30>| Lang Python|
-|<img align=center src='images/windows11-original.svg' width=30>|Windows 10 Home|
-|<img align=center src='images/vscode-original.svg' width=30>|Visual Studio Code|
-
-
-
+<table align=center>
+    <tr>
+        <td align=center>LOGO</td>
+        <td align=right>DESCRIPTION</td>
+    </tr>
+    <tr>
+        <td align=center>
+            <img align=center src='images/python-original.svg' width=30>
+        </td>   
+        <td align=right>
+            Python 3.12.3
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
+            <img align=center src='images/windows11-original.svg' width=30>
+        </td>
+        <td align=right>
+            Windows 10 Home
+        </td>
+    </tr>
+    <tr>
+        <td align=center>
+            <img align=center src='images/vscode-original.svg' width=30>
+        </td>
+        <td align=right>
+            Visual Studio Code
+        </td>
+    </tr>
+</table>
