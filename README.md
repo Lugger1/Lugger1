@@ -1,16 +1,8 @@
 <br>
 
-<div align='center' style='background-color: gray; padding: 7px; border-radius: 14px'>
-    <p style='
-    height: 35px;
-    @font-face{
-        font-family: "FontName";
-        src: url("fonts/Exo2-VariableFont_wght.ttf")
-    }
-    font-face: "FontName";
-    font-size: 30px;
-    color: white;
-    '>Lugger</p>
+<div align='center'>
+    <font style='font-size: 30px; color: white'>Lugger</font>
+    <br>
     <img style='border-radius: 20px;' src="images/avatar.gif" width='295'>
     <br>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft%2Cme%2FLsxzvt">
@@ -21,27 +13,24 @@
 <br>
 <br>
 
-# Кто я?
+<h1 align='center'> Кто я?</h1>
 
-- Я программист python;
+- Я python-программист;
 - Пока-что школьник, просто делающий в свободное время проекты;
 - В основном пишу что-то на <img title='[Qt Icon]' src='images/qt.svg' width=25 align='center'> PyQt 6-й версии
 
+<br>
 <h1 align='center'>В будущем планирую изучить</h1>
+<img src="images/cplusplus-original.svg" width=50 align='center'> <img src="images/csharp-original.svg" width=50 align='center'> <img src="images/javascript-original.svg" width=50 align='center'> <img src="images/typescript-original.svg" width=50 align='center'> <img src="images/unity-original.svg" width=50 align='center'> 
 
-<div style='background-color: rgb(150, 150, 150); border-radius: 4px; padding: 5px; width: 280px; top: 0; bottom: 0; left: 0; right: 0;
-margin: auto'>
-    <img src="images/cplusplus-original.svg" width=50 align='center'> <img src="images/csharp-original.svg" width=50 align='center'> <img src="images/javascript-original.svg" width=50 align='center'> <img src="images/typescript-original.svg" width=50 align='center'> <img src="images/unity-original.svg" width=50 align='center'> 
-</div>
-
-___
+<br>
 <h1 align=center>Использую в разработке</h1>
 
-| LOGO | DESC |
-|:-    |    -:|
+| LOGO | DESCRIPTION |
+|:-:    |    -:|
 |<img align=center src='images/python-original.svg' width=30>| Lang Python|
 |<img align=center src='images/windows11-original.svg' width=30>|Windows 10 Home|
-|<img align=center src='images/vscode-original.svg' width=30>| Visual Studio Code|
+|<img align=center src='images/vscode-original.svg' width=30>|Visual Studio Code|
 
 
 
