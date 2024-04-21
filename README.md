@@ -11,7 +11,7 @@
     font-size: 30px;
     color: white;
     '>Lugger</p>
-    <img style='border-radius: 20px;' src="images/avatar.gif" width='125'>
+    <img style='border-radius: 20px;' src="images/avatar.gif" width='295'>
     <br>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft%2Cme%2FLsxzvt">
     <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=StackOverflow&link=https%3A%2F%2Fru.stackoverflow.com%2Fusers%2F497911%2Flugger">
@@ -31,7 +31,7 @@
 
 <div style='background-color: rgb(150, 150, 150); border-radius: 4px; padding: 5px; width: 280px; top: 0; bottom: 0; left: 0; right: 0;
 margin: auto'>
-    <img src="cplusplus-original.svg" width=50 align='center'> <img src="csharp-original.svg" width=50 align='center'> <img src="javascript-original.svg" width=50 align='center'> <img src="typescript-original.svg" width=50 align='center'> <img src="unity-original.svg" width=50 align='center'> 
+    <img src="images/cplusplus-original.svg" width=50 align='center'> <img src="images/csharp-original.svg" width=50 align='center'> <img src="images/javascript-original.svg" width=50 align='center'> <img src="images/typescript-original.svg" width=50 align='center'> <img src="images/unity-original.svg" width=50 align='center'> 
 </div>
 
 ___
@@ -39,9 +39,9 @@ ___
 
 | LOGO | DESC |
 |:-    |    -:|
-|<img align=center src='python-original.svg' width=30>| Lang Python|
-|<img align=center src='windows11-original.svg' width=30>|Windows 10 Home|
-|<img align=center src='vscode-original.svg' width=30>| Visual Studio Code|
+|<img align=center src='images/python-original.svg' width=30>| Lang Python|
+|<img align=center src='images/windows11-original.svg' width=30>|Windows 10 Home|
+|<img align=center src='images/vscode-original.svg' width=30>| Visual Studio Code|
 
 
 
