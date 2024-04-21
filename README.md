@@ -11,7 +11,7 @@
     font-size: 30px;
     color: white;
     '>Lugger</p>
-    <img style='border-radius: 20px;' src="images/avatar.gif" width='295'>
+    <img style='border-radius: 20px;' src="images/avatar.gif" width='350'>
     <br>
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&link=https%3A%2F%2Ft%2Cme%2FLsxzvt">
     <img alt="Static Badge" src="https://img.shields.io/badge/StackOverflow-white?style=for-the-badge&logo=StackOverflow&link=https%3A%2F%2Fru.stackoverflow.com%2Fusers%2F497911%2Flugger">
